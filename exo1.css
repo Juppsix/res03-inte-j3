@@ -1,5 +1,6 @@
 body {
     background-color: #4455b3;
+    font-family : 'Arial', sans-serif;
 }
 .billy {
     position: absolute;
@@ -22,10 +23,31 @@ h1{
     top: 15vh;
     left: 23vh;
     font-weight: bold;
+    border: none;
 }
 .fieldset2{
     position: absolute;
     top: 25vh;
     left: 23vh;
     font-weight: bold;
+    border: none;
+    
+}
+.bouton{
+    position: absolute;
+    top: 38vh;
+    left: 25vh;
+    height: 5vh;
+    width: 9vw;
+    
+}
+.saisie1 {
+    background-color: #c2cae8;
+    border: none;
+    border-radius : 5px;
+}
+.saisie2{
+    background-color: #c2cae8;
+    border: none;
+    border-radius : 5px;
 }

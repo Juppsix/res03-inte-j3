@@ -1,0 +1,144 @@
+body {
+    background-color: #4455b3;
+    font-family : 'Arial', sans-serif;
+}
+.billy {
+    position: absolute;
+    top: 28vh;
+    left: 12vh;
+    width: 40vw;
+    height: 50vh;
+    box-shadow: 3px 3px 2px black;
+    background-color: #ffffff;
+     border-radius : 5px;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 2.8em;
+    font-weight: bold;
+    margin-top: 1px;
+    text-shadow: 1px 3px 2px black;
+}
+.fieldset1{
+    position: absolute;
+    top: 10vh;
+    left: 20vh;
+    font-weight: bold;
+    border: none;
+}
+.fieldset2{
+    position: absolute;
+    top: 20vh;
+    left: 20vh;
+    font-weight: bold;
+    border: none;
+    
+}
+.bouton{
+    position: absolute;
+    top: 33vh;
+    left: 22vh;
+    height: 5vh;
+    width: 9vw;
+    background-color: #0e2872;
+    border-radius : 5px;
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: bold;
+}
+.saisie1 {
+    background-color: #c2cae8;
+    border: none;
+    border-radius : 5px;
+    height: 4.5vh;
+    width: 19vw;
+}
+.saisie2{
+    background-color: #c2cae8;
+    border: none;
+    border-radius : 5px;
+    height: 4.5vh;
+    width: 19vw;
+}
+.Connexion{
+    position: absolute;
+    color: #ffffff;
+    left: 34vh;
+    top: 13vh;
+    font-size: 3em;
+    opacity : 0.5;
+    text-shadow: 1px 3px 2px black;
+    
+    
+}
+/* formulaire de gauche*/
+
+
+.poppy {
+    position: absolute;
+    top: 18vh;
+    left: 110vh;
+    width: 35vw;
+    height: 70vh;
+    box-shadow: 3px 3px 2px black;
+    background-color: #ffffff;
+     border-radius : 5px;
+}
+.fieldset3{
+    position: absolute;
+    top: 5vh;
+    left: 15vh;
+    font-weight: bold;
+    border: none;
+}
+
+.fieldset4{
+    position: absolute;
+    top: 15vh;
+    left: 15vh;
+    font-weight: bold;
+    border: none;
+}
+.fieldset5{
+    position: absolute;
+    top: 25vh;
+    left: 15vh;
+    font-weight: bold;
+    border: none;
+}
+.fieldset6{
+    position: absolute;
+    top: 35vh;
+    left: 15vh;
+    font-weight: bold;
+    border: none;
+}
+.fieldset7{
+    position: absolute;
+    top: 45vh;
+    left: 15vh;
+    font-weight: bold;
+    border: none;
+}
+.inscription{
+    position: absolute;
+    color: #ffffff;
+    left: 127vh;
+    top: 2vh;
+    font-size: 3em;
+    opacity : 0.5;
+    text-shadow: 1px 3px 2px black;
+}
+.bouton2{
+    position: absolute;
+    top: 58vh;
+    left: 17vh;
+    height: 5vh;
+    width: 9vw;
+    background-color: #0e2872;
+    border-radius : 5px;
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: bold;
+}
