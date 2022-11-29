@@ -1,0 +1,86 @@
+
+/* bodyy */ 
+body {
+    font-family: Open Sans, sans serif;
+}
+
+/* navbarrr */ 
+
+li {
+    display: inline-block;
+    text-align: center;
+    margin: 35px;
+    align-items: center;
+    
+}
+ul {
+    text-align: center;
+    margin-top: -1.5vh;
+    margin-left: -1.5vw;
+    margin-right: -1.5vw;
+    height: 9vh;
+    background-color: #d52a54;
+    
+}
+li a {
+    color: white;
+    text-decoration: none;
+    margin: 25px;
+}
+
+
+
+/* première section */ 
+
+
+.premiere-partie{
+    background-image: url(../img/Images/teacher.png);
+    background-size: cover;
+    
+    height: 100vh;
+    margin-top: -2.5vh;
+    margin-left: -1.5vh;
+    margin-right: -2vh;
+}
+.premierp {
+   border: 1px solid white; 
+   color: #ffffff;
+   position: absolute;
+   top: 40vh;
+   left: 25vh;
+   height: 10vh;
+   font-size: 4em;
+   font-weight: bold;
+}
+.deuxiemep {
+    border: 1px solid white; 
+    color: #ffffff;
+    position: absolute;
+    top: 55vh;
+    left: 25vh;
+    font-size: 3.1em;
+    font-weight: bold;
+}
+/* deuxième partie */
+.apropos{
+    position: absolute;
+    color: black;
+    top: 125vh;
+    left: 35vw;
+    font-size: 3.5em;
+    border: 1px solid red;
+    
+}
+.article1{
+    border: 1px solid red;
+    position: absolute;
+    width: 40vw;
+    top: 145vh;
+}
+.article2{
+    border: 1px solid red;
+    position: absolute;
+    width: 45vw;
+    top: 145vh;
+    left: 95vh;
+}
